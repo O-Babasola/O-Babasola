@@ -1,4 +1,5 @@
-![image](https://github.com/O-Babasola/O-Babasola/assets/160128209/32c2a1f6-ff4e-4df4-8e5f-61392bb1b1b4)
+
+![image](https://github.com/O-Babasola/O-Babasola/assets/160128209/b3505a96-7151-4d73-9347-f86b063dc154)
 
 
 ### Hi there 👋
