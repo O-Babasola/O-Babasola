@@ -28,7 +28,7 @@ I am actively seeking internships, apprenticeships and/or junior/entry level rol
 
 ### 📫How to contact me
 - **Email**: rhodababasola23@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/oluwatise-babasola-5072932b2/
+- **LinkedIn**: https://www.linkedin.com/in/oluwatise-babasola/ 
 
 
 
