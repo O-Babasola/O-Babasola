@@ -4,14 +4,14 @@
 
 ### Hi there 👋
 
-I'm Oluwatise, an aspiring Software Engineer with an interest for coding and life long learning. Currently, I have completed a Software Engineering Bootcamp.
+I'm Oluwatise also known as "frontendfuel", an aspiring Software Engineer with an interest for coding and life long learning. Currently, I have completed a Software Engineering Bootcamp.
 
 I am actively seeking internships, apprenticeships and/or junior/entry level roles to commence my journey in the industry and continue to develop and strengthen my programming skills.
 
 ---
 
 ### :woman_student:Education and Courses
-- Currently participating in a *Software Engineering Bootcamp* offered by **Hyperion Dev** to consolidate my understanding of the fundamentals of Python including but not limited to:
+- Participated in a *Software Engineering Bootcamp* offered by **Hyperion Dev** to consolidate my understanding of the fundamentals of Python including but not limited to:
    - object-orientated programming
    - debugging techniques
    - programming with user defined functions
@@ -27,7 +27,7 @@ I am actively seeking internships, apprenticeships and/or junior/entry level rol
 ---
 
 ### 📫How to contact me
-- **Email**: oluwatisebabasola@gmail.com
+- **Email**: frontendfuel.build@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/oluwatise-babasola/ 
 
 
