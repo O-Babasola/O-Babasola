@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm Oluwatise, an aspiring Software Engineer with an interest for coding and life long learning. Currently, I am on stimulating journey in becoming an adept and experienced Software Engineer through a Software Engineering Bootcamp.
+I'm Oluwatise, an aspiring Software Engineer with an interest for coding and life long learning. Currently, I have completed a Software Engineering Bootcamp.
 
 I am actively seeking internships, apprenticeships and/or junior/entry level roles to commence my journey in the industry and continue to develop and strengthen my programming skills.
 
