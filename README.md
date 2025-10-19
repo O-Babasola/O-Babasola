@@ -1,7 +1,7 @@
 
 ![image](https://github.com/O-Babasola/O-Babasola/assets/160128209/b3505a96-7151-4d73-9347-f86b063dc154)
 
-![image][OLUWATISE (2).pdf](https://github.com/user-attachments/files/22992301/OLUWATISE.2.pdf)
+![image](https://github.com/user-attachments/files/22992301/OLUWATISE.2.pdf)
 
 ### Hi there 👋
 
