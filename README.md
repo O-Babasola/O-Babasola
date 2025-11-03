@@ -20,7 +20,7 @@ I am currently working through the freeCodeCamp curriculum and I am actively see
 
 ### 📑Software Stack 
 
-**Github**: https://github.com/dashboard 
+**Github**: https://github.com/O-Babasola?tab=repositories
 
 ---
 
