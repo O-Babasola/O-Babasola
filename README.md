@@ -9,7 +9,8 @@ I am currently working through the freeCodeCamp curriculum and I am actively see
 ---
 
 ### :woman_student:Education and Courses
-- Participated in a *Software Engineering Bootcamp* offered by **Hyperion Dev** to consolidate my understanding of the fundamentals of Python including but not limited to:
+- Currently completing freeCodeCamp **Full Stack Developer Curriculum**.
+- Completed a *Software Engineering Bootcamp* offered by **Hyperion Dev** to consolidate my understanding of the fundamentals of Python including but not limited to:
    - object-orientated programming
    - debugging techniques
    - programming with user defined functions
