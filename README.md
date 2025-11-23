@@ -10,7 +10,7 @@ I am actively seeking internships, apprenticeships and/or junior/entry level rol
 ---
 ## 🚀 My Projects
 ### 🌐 Personal Website Draft
-- **[Personal website] (
+- **[Personal website] (https://github.com/O-Babasola/personal-website)** - A st
 
 ---
 
