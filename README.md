@@ -4,14 +4,15 @@
 Welcome to my Github profile.
 
 <!-- Navigation Section-->
-<p align="left">
-  <a href="#-about-me">About Me</a> •
-  <a href="#-my-projects">My Projects</a> •
-  <a href="#-github-stats">Github Statistics</a> •
-  <a href="#-contribution-streak">Contribution Streak</a> •
-  <a href="#-software-stack">Software Stack</a> •
-  <a href="#-how-to-contact-me">How to contact me</a>   
-</p>
+
+## 🧭 Navigation
+
+- [👨‍💻 About Me](#-about-me)
+- [🚀 My Projects](#-my-projects)
+- [📈 GitHub Statistics](#-github-statistics)
+- [🔥Tech Contribution Streak](#-contribution-streak)
+- [📑Software Stack](#-software-stack)
+- [📫 How to contact me](#-how-to-contact-me)
 
 ---
 
