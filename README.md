@@ -41,6 +41,19 @@ I am actively seeking internships and/or junior/entry level roles to commence my
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=O-Babasola&theme=algolia&hide_border=true" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/O-Babasola">
+    <!-- Custom sky blue themed stats -->
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=O-Babasola&show_icons=true&hide_border=true&bg_color=87CEEB,ffffff&title_color=00308F&text_color=2D3748&icon_color=FF7F50&ring_color=00308F" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Babasola&layout=compact&hide_border=true&bg_color=ffffff,87CEEB&title_color=00308F&text_color=2D3748" />
+  </a>
+</p>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=O-Babasola&hide_border=true&background=87CEEB10&ring=87CEEB&fire=FF7F50&currStreakLabel=00308F&currStreakNum=00308F&sideLabels=00308F&sideNums=00308F" />
+</p>
+
+
 ### 📑Software Stack 
 
 **Github**: https://github.com/O-Babasola?tab=repositories
