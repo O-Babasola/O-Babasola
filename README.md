@@ -5,9 +5,9 @@ Welcome to my Github profile.
 
 ### 🧑‍💻 About Me
 
-I'm Oluwatise also known as "frontendfuel", an aspiring Software Engineer with an interest for coding and life long learning. I have completed a Software Engineering Bootcamp and I am currently working through the freeCodeCamp Full Stack Developer curriculum.
+I'm Oluwatise also known as "frontendfuel", an aspiring Software Engineer with an interest for coding and life long learning. I have completed a Software Engineering Bootcamp and I am currently working through the freeCodeCamp Full Stack Developer curriculum as a self-taught front end developer.
 
-I am actively seeking internships, apprenticeships and/or junior/entry level roles to commence my journey in the industry and continue to develop and strengthen my programming skills.
+I am actively seeking internships and/or junior/entry level roles to commence my journey in the industry and continue to develop and strengthen my programming skills.
 
 ---
 ## 🚀 My Projects
