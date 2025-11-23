@@ -8,6 +8,9 @@ I'm Oluwatise also known as "frontendfuel", an aspiring Software Engineer with a
 I am actively seeking internships, apprenticeships and/or junior/entry level roles to commence my journey in the industry and continue to develop and strengthen my programming skills.
 
 ---
+## 🚀 My Projects
+
+---
 
 ### :woman_student:Education and Courses
 - Currently completing *freeCodeCamp* **Full Stack Developer Curriculum**.
@@ -18,8 +21,6 @@ I am actively seeking internships, apprenticeships and/or junior/entry level rol
    - data types and conditional statements and so much more.
 - Achieved a grade 9 GCSE (UK grading equivalent to a A**) in **Computer Science**.
 ---
-
-## 🚀 My Projects
 
 
 ### 📑Software Stack 
