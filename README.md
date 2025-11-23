@@ -29,18 +29,6 @@ I am actively seeking internships and/or junior/entry level roles to commence my
 ---
 
 ### 📈 GitHub Statistics
-<p align="left">
-  <a href="https://github.com/O-Babasola">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=O-Babasola&show_icons=true&theme=algolia&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Babasola&layout=compact&theme=algolia&hide_border=true" />
-  </a>
-</p>
-
-### 🔥 Contribution Streak
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=O-Babasola&theme=algolia&hide_border=true" />
-</p>
-
 <p align="center">
   <a href="https://github.com/O-Babasola">
     <!-- Custom sky blue themed stats -->
@@ -49,9 +37,25 @@ I am actively seeking internships and/or junior/entry level roles to commence my
   </a>
 </p>
 
+<! -- Example of previous github stats
+<p align="left">
+  <a href="https://github.com/O-Babasola">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=O-Babasola&show_icons=true&theme=algolia&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Babasola&layout=compact&theme=algolia&hide_border=true" />
+  </a>
+</p>
+--> 
+
+### 🔥 Contribution Streak
 <p align="center">
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=O-Babasola&hide_border=true&background=87CEEB10&ring=87CEEB&fire=FF7F50&currStreakLabel=00308F&currStreakNum=00308F&sideLabels=00308F&sideNums=00308F" />
 </p>
+
+<!-- Example contribution streak
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=O-Babasola&theme=algolia&hide_border=true" />
+</p>
+-->
 
 
 ### 📑Software Stack 
