@@ -27,13 +27,12 @@ I am actively seeking internships and/or junior/entry level roles to commence my
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
+<p align="center">
   <a href="https://github.com/yourusername">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=ayu_light&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=ayu_light&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-
 
 ### 📑Software Stack 
 
