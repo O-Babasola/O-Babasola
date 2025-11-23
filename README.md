@@ -10,7 +10,7 @@ Welcome to my Github profile.
 - [👨‍💻 About Me](#-about-me)
 - [🚀 My Projects](#-my-projects)
 - [📈 GitHub Statistics](#-github-statistics)
-- [🔥Tech Contribution Streak](#-contribution-streak)
+- [🔥Contribution Streak](#-contribution-streak)
 - [📑Software Stack](#-software-stack)
 - [📫 How to contact me](#-how-to-contact-me)
 
