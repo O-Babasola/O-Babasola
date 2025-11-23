@@ -35,13 +35,6 @@ I am actively seeking internships and/or junior/entry level roles to commence my
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/john-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=john-dev&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&line_height=24" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-dev&layout=compact&theme=algolia&hide_border=true&langs_count=6" />
-  </a>
-</p>
-
 ### 📑Software Stack 
 
 **Github**: https://github.com/O-Babasola?tab=repositories
