@@ -9,6 +9,8 @@ I am actively seeking internships, apprenticeships and/or junior/entry level rol
 
 ---
 ## 🚀 My Projects
+### 🌐 Personal Website Draft
+- **[Personal website] (
 
 ---
 
