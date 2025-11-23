@@ -5,7 +5,9 @@ Welcome to my Github profile.
 
 <!-- Navigation Section-->
 
-## 🧭 Navigation
+## 🧭 Navigation 
+| Quick Links |
+|-------------|
 
 - [👨‍💻 About Me](#-about-me)
 - [🚀 My Projects](#-my-projects)
