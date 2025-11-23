@@ -9,7 +9,6 @@ Welcome to my Github profile.
 | Quick Links |
 |-------------|
 
-<div align="center>
 - [👨‍💻 About Me](#-about-me)
 - [🚀 My Projects](#-my-projects)
 - [📈 GitHub Statistics](#-github-statistics)
@@ -17,7 +16,7 @@ Welcome to my Github profile.
 - [📑Software Stack](#-software-stack)
 - [📫 How to contact me](#-how-to-contact-me)
 
-</div>
+
 ---
 
 ### 🧑‍💻 About Me
