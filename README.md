@@ -3,6 +3,18 @@
 ### Hi there 👋
 Welcome to my Github profile.
 
+<!-- Navigation Section-->
+<p align="left">
+  <a href="#-about-me">About Me</a> •
+  <a href="#-my-projects">My Projects</a> •
+  <a href="#-github-stats">Github Statistics</a> •
+  <a href="#-contribution-streak">Contribution Streak</a> •
+  <a href="#-software-stack">Software Stack</a> •
+  <a href="#-how-to-contact-me">How to contact me</a>   
+</p>
+
+---
+
 ### 🧑‍💻 About Me
 
 I'm Oluwatise also known as "frontendfuel", an aspiring **aspiring Frontend Developer** with an interest for creating beatiful, reponsive and user-friendly web experiences. I love turning ideas into reality through my code and I am a life long learning. I have completed a Software Engineering Bootcamp and I am currently working through the freeCodeCamp Full Stack Developer curriculum as a self-taught front end developer.
