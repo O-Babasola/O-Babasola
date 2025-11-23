@@ -29,8 +29,8 @@ I am actively seeking internships and/or junior/entry level roles to commence my
 ### 📈 GitHub Stats
 <p align="center">
   <a href="https://github.com/yourusername">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" />
   </a>
 </p>
 
