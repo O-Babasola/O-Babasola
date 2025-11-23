@@ -1,6 +1,7 @@
 <img width="1999" height="1413" alt="image" src="https://github.com/user-attachments/assets/2550bfc6-6ec9-4086-ac96-679a366dfb14" />
 
 ### Hi there 👋
+Welcome to my Github profile.
 
 I'm Oluwatise also known as "frontendfuel", an aspiring Software Engineer with an interest for coding and life long learning. I have completed a Software Engineering Bootcamp and I am currently working through the freeCodeCamp Full Stack Developer curriculum.
 
@@ -16,8 +17,10 @@ I am actively seeking internships, apprenticeships and/or junior/entry level rol
    - programming with user defined functions
    - data types and conditional statements and so much more.
 - Achieved a grade 9 GCSE (UK grading equivalent to a A**) in **Computer Science**.
-
 ---
+
+## 🚀 My Projects
+
 
 ### 📑Software Stack 
 
