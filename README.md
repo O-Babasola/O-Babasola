@@ -39,10 +39,6 @@ I am actively seeking internships and/or junior/entry level roles to commence my
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=O-Babasola&theme=algolia&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=john-dev&hide_border=true&background=0D1117&ring=0066CC&fire=FF6B00&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF" />
-</p>
-
 ### 📑Software Stack 
 
 **Github**: https://github.com/O-Babasola?tab=repositories
