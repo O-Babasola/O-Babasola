@@ -34,6 +34,9 @@ I am actively seeking internships and/or junior/entry level roles to commence my
   </a>
 </p>
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=O-Babasola&theme=algolia&hide_border=true" />
+</p>
 
 ### 📑Software Stack 
 
