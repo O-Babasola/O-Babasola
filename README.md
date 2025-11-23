@@ -26,6 +26,13 @@ I am actively seeking internships and/or junior/entry level roles to commence my
 - Achieved a grade 9 GCSE (UK grading equivalent to a A**) in **Computer Science**.
 ---
 
+### 📈 GitHub Stats
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
+  </a>
+</p>
 
 ### 📑Software Stack 
 
