@@ -3,7 +3,7 @@
 ### Hi there 👋
 Welcome to my Github profile.
 
-<!-- Navigation Section -->
+<!-- Navigation Section/Bar-->
 
 ## 🧭 Navigation 
 | Quick Links |
