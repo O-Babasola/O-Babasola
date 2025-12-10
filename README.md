@@ -49,7 +49,7 @@ I am actively seeking internships and/or junior/entry level roles to commence my
   <a href="https://github.com/O-Babasola">
     <!-- Custom sky blue themed stats -->
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=O-Babasola&show_icons=true&hide_border=true&bg_color=87CEEB,ffffff&title_color=00308F&text_color=2D3748&icon_color=FF7F50&ring_color=00308F" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Babasola&layout=compact&hide_border=true&bg_color=ffffff,87CEEB&title_color=00308F&text_color=2D3748" />
+     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Babasola&layout=compact&hide_border=true&bg_color=ffffff,87CEEB&title_color=00308F&text_color=2D3748" />
   </a>
 </p>
 
