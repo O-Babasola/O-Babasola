@@ -53,6 +53,14 @@ I am actively seeking internships and/or junior/entry level roles to commence my
   </a>
 </p>
 
+
+### 📈 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=O-Babasola&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Babasola&layout=compact" />
+</p>
+
+
 ### 🔥 Contribution Streak
 <p align="center">
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=O-Babasola&hide_border=true&background=87CEEB10&ring=87CEEB&fire=FF7F50&currStreakLabel=00308F&currStreakNum=00308F&sideLabels=00308F&sideNums=00308F" />
