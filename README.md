@@ -56,8 +56,11 @@ I am actively seeking internships and/or junior/entry level roles to commence my
 
 ### 📈 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=O-Babasola&show_icons=true&theme=default&hide_border=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Babasola&layout=compact&theme=default&hide_border=true" alt="Your Top Languages" />
+  <!-- Blue/Orange Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=O-Babasola&show_icons=true&hide_border=true&bg_color=0d1117,1e3a8a&title_color=3b82f6&text_color=f3f4f6&icon_color=f97316&ring_color=3b82f6&count_private=true" alt="GitHub Stats" />
+  
+  <!-- Blue/Orange Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Babasola&layout=compact&hide_border=true&bg_color=0d1117,1e3a8a&title_color=3b82f6&text_color=f3f4f6&langs_count=8" alt="Top Languages" />
 </p>
 
 
