@@ -26,7 +26,7 @@ I'm Oluwatise also known as "frontendfuel", an aspiring **aspiring Frontend Deve
 I am actively seeking internships and/or junior/entry level roles to commence my journey in the industry and continue to develop and strengthen my programming skills.
 
 - 💼 Building and mastering projects to strengthen my **frontend development skills**
-- 🌱 Currently learning JavaScript in freeCodeCamp
+- 🌱 Currently learning **JavaScript** in freeCodeCamp
 
 ---
 ## 🚀 My Projects
