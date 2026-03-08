@@ -6,7 +6,8 @@
     style="max-width: 800px; border-radius: 12px; margin: 20px 0;"
   />
 
-  <h2> 👤 Between Woman and Machine ⚙️</h2>
+
+  <h2> <img width="100" height="100" alt="Github Profile Image" src="https://github.com/user-attachments/assets/3c02ab3e-4764-4dda-afa8-8bd44ec1426c" /> Between Woman and Machine ⚙️</h2>
   <p><em>Building the bridge, one line of code at a time</em></p>
   
   <hr width="50%" />
