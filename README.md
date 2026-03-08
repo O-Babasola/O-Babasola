@@ -6,7 +6,7 @@
     style="max-width: 800px; border-radius: 12px; margin: 20px 0;"
   />
 
-  <h2> 👤 Between Man and Machine ⚙️</h2>
+  <h2> 👤 Between Woman and Machine ⚙️</h2>
   <p><em>Building the bridge, one line of code at a time</em></p>
   
   <hr width="50%" />
