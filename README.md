@@ -1,6 +1,20 @@
 <div align="center">
-<img width="500" height="500" alt="Github Image2" src="https://github.com/user-attachments/assets/aac5c137-dbfb-4b8a-9fc7-14f7cd1a1909" />
-   <p>Between MAN and MACHINE</p>
+  <img 
+    src="https://github.com/user-attachments/assets/aac5c137-dbfb-4b8a-9fc7-14f7cd1a1909" 
+    alt="frontendfuel banner" 
+    width="80%" 
+    style="max-width: 800px; border-radius: 12px; margin: 20px 0;"
+  />
+  
+  <h2>⚡ Between Man and Machine ⚡</h2>
+  <p><em>Building the bridge, one line of code at a time</em></p>
+  
+  <hr width="50%" />
+  
+  <p>
+    <strong>— Oluwatise (frontendfuel) —</strong><br />
+    <small>Frontend Developer in the making</small>
+  </p>
 </div>
 
 ### Hi there 👋
