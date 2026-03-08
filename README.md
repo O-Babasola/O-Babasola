@@ -1,5 +1,6 @@
 <div align="center">
 <img width="500" height="500" alt="Github Image2" src="https://github.com/user-attachments/assets/aac5c137-dbfb-4b8a-9fc7-14f7cd1a1909" />
+   <p>Between MAN and MACHINE</p>
 </div>
 
 ### Hi there 👋
