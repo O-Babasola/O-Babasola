@@ -7,7 +7,7 @@
   />
 
 
-  <h2> <img width="50" height="50" alt="Github Profile Image" src="https://github.com/user-attachments/assets/3c02ab3e-4764-4dda-afa8-8bd44ec1426c" />Between Woman and Machine ⚙️</h2>
+  <h2> <img width="30" height="30" alt="Github Profile Image" src="https://github.com/user-attachments/assets/3c02ab3e-4764-4dda-afa8-8bd44ec1426c" />Between Woman and Machine ⚙️</h2>
   <p><em>Building the bridge, one line of code at a time</em></p>
   
   <hr width="50%" />
