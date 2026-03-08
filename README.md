@@ -13,7 +13,7 @@
   
   <p>
     <strong>— Oluwatise (frontendfuel) —</strong><br />
-    <small>Frontend Developer in the making</small>
+    <small>Web Developer in the making</small>
   </p>
 </div>
 
