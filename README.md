@@ -2,7 +2,7 @@
   <img 
     src="https://github.com/user-attachments/assets/aac5c137-dbfb-4b8a-9fc7-14f7cd1a1909" 
     alt="frontendfuel banner" 
-    width="60%" 
+    width="80%" 
     style="max-width: 800px; border-radius: 12px; margin: 20px 0;"
   />
   
