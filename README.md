@@ -39,7 +39,7 @@ Welcome to my Github profile.
 
 ### <img width="40" height="40" alt="Github Profile Image" src="https://github.com/user-attachments/assets/3c02ab3e-4764-4dda-afa8-8bd44ec1426c" /> About Me
 
-I'm Oluwatise also known as "frontendfuel", an aspiring **Full Stack Web Developer** (with a focus on frontend web development) with an interest for creating beatiful, reponsive and user-friendly web experiences. I love turning ideas into reality through my code and I am a life long learning. I have completed a Software Engineering Bootcamp and I am currently working through the freeCodeCamp Full Stack Developer curriculum as a self-taught front end developer.
+I'm Oluwatise also known as "frontendfuel", an aspiring **Full Stack Web Developer** (with a focus on **frontend web development**) with an interest for creating beautiful, reponsive and user-friendly web experiences. I love turning ideas into reality through my code and I am a life long learning. I have completed a Software Engineering Bootcamp and I am currently working through the freeCodeCamp Full Stack Developer curriculum as a self-taught front end developer.
 
 I am actively seeking internships and/or junior/entry level roles to commence my journey in the industry and continue to develop and strengthen my programming skills.
 
