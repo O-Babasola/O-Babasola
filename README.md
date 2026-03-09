@@ -43,6 +43,8 @@ I'm Oluwatise also known as "frontendfuel", an aspiring **Full Stack Web Develop
 
 I am actively seeking internships and/or junior/entry level roles to commence my journey in the industry and continue to develop and strengthen my programming skills.
 
+Follow me on my journey to become a skilled web developer:
+
 - 💼 Building and mastering projects to strengthen my **frontend development skills**
 - 🌱 Currently learning **JavaScript** in freeCodeCamp
 
