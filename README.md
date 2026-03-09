@@ -51,7 +51,7 @@ Follow me on my journey to become a skilled web developer:
 ---
 ## 🚀 My Projects
 ### 🌐 Personal Website Draft
-- **[Personal website] (https://github.com/O-Babasola/personal-website)** - A single page personal website draft show work experience, education. The website is built with HTML and CSS and is fully responsive for various screen sizes.
+- **[Personal website] https://github.com/myoluwatise/personal-website** - A single page personal website draft show work experience, education. The website is built with HTML and CSS and is fully responsive for various screen sizes.
 - **[CV Draft] (https://github.com/O-Babasola/curriculum-vitae)** - A single page CV draft showcasing basic HTML and CSS.
 ---
 
