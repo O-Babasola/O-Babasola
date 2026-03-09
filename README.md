@@ -91,7 +91,7 @@ Follow me on my journey to become a skilled web developer:
 
 ### 📫How to contact me
 - **Email**: frontendfuel.build@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/oluwatise-babasola/ 
+- **LinkedIn**: https://www.linkedin.com/in/frontendfuel/
 
 
 
