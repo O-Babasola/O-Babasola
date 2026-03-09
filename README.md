@@ -57,7 +57,7 @@ Follow me on my journey to become a skilled web developer:
 
 ### :woman_student:Education and Courses
 - Currently completing *freeCodeCamp* **Full Stack Developer Curriculum**.
-    - Completed the Responsive Web Design Curriculum at *freecodeCamp*
+    - Completed the **Responsive Web Design Curriculum** at *freecodeCamp*
 - Completed a *Software Engineering Bootcamp* offered by **Hyperion Dev** to consolidate my understanding of the fundamentals of Python including but not limited to:
    - object-orientated programming
    - debugging techniques
