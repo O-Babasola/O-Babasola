@@ -85,7 +85,7 @@ Follow me on my journey to become a skilled web developer:
 
 ### 📑Software Stack 
 
-**Github**: https://github.com/O-Babasola?tab=repositories
+**Github**: https://github.com/O-frontendfuel?tab=repositories
 
 ---
 
