@@ -68,17 +68,17 @@ Follow me on my journey to become a skilled web developer:
 
 ### 📈 GitHub Statistics
 <p align="center">
-  <a href="https://github.com/O-Babasola">
+  <a href="https://github.com/myoluwatise">
     <!-- Custom sky blue themed stats -->
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=O-Babasola&show_icons=true&hide_border=true&bg_color=87CEEB,ffffff&title_color=00308F&text_color=2D3748&icon_color=FF7F50&ring_color=00308F" />
-     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Babasola&layout=compact&hide_border=true&bg_color=ffffff,87CEEB&title_color=00308F&text_color=2D3748" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=myoluwatise&show_icons=true&hide_border=true&bg_color=87CEEB,ffffff&title_color=00308F&text_color=2D3748&icon_color=FF7F50&ring_color=00308F" />
+     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myoluwatise&layout=compact&hide_border=true&bg_color=ffffff,87CEEB&title_color=00308F&text_color=2D3748" />
   </a>
 </p>
 
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=O-Babasola&hide_border=true&background=87CEEB10&ring=87CEEB&fire=FF7F50&currStreakLabel=00308F&currStreakNum=00308F&sideLabels=00308F&sideNums=00308F" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=myoluwatise&hide_border=true&background=87CEEB10&ring=87CEEB&fire=FF7F50&currStreakLabel=00308F&currStreakNum=00308F&sideLabels=00308F&sideNums=00308F" />
 </p>
 
 
@@ -97,7 +97,7 @@ Follow me on my journey to become a skilled web developer:
 
 
 <!--
-**O-Babasola/O-Babasola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**myoluwatise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
